@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Yusuf</h1>
-<h3 align="center">A passionate frontend developer from Kryrgzstan</h3>
+<h3 align="center">A passionate Flutter/Kotlin  developer from Kryrgzstan</h3>
 <img align="right" alt"Coding" width="400" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/Circle-icons-dev.svg/1024px-Circle-icons-dev.svg.png">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=yuffex&label=Profile%20views&color=0e75b6&style=flat" alt="yuffex" /> </p>
