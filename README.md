@@ -25,14 +25,7 @@
   <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/>
 </p>
 
-<p align="center">
-  <a href="https://www.buymeacoffee.com/yufex">
-    <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="Buy me a coffee" />
-  </a>
-  <a href="https://ko-fi.com/yufex">
-    <img src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="Support me on Ko-fi" />
-  </a>
-</p>
+
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=yuffex&show_icons=true&locale=en" alt="GitHub Stats" />
