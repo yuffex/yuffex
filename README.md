@@ -1,14 +1,8 @@
 <h1 align="center">Hi, I'm Yusuf</h1>
 
 <p align="center">
-  <a href="https://twitter.com/yusufake7" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Twitter" height="30" width="40" />
-  </a>
   <a href="https://instagram.com/yuffery" target="_blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="30" width="40" />
-  </a>
-  <a href="https://www.youtube.com/c/@myuffery" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="YouTube" height="30" width="40" />
   </a>
 </p>
 
@@ -17,7 +11,7 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/yuffex/Memory-Game">Memory Game</a> | <a href="https://github.com/yuffex/ToDoList">ToDoList</a> | <a href="https://github.com/yuffex/Dish-Explorer">Dish Explorer</a>
+  <a href="https://github.com/yuffex/GoogleChatAiJetpackCompose">AI CHAT</a> | <a href="[https://github.com/yuffex/ToDoList](https://github.com/yuffex/TheCatAPiWallpapers)">WALLPAPER</a> | <a href="https://github.com/yuffex/Dish-Explorer">Dish Explorer</a>
 </p>
 
 <p align="center">
@@ -26,11 +20,7 @@
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/>
-  <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/>
-  <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/>
+logo
 </p>
 
 <p align="center">
