@@ -7,13 +7,13 @@
 </p>
 
 <p align="center">
-  A passionate Flutter/Kotlin developer from Kyrgyzstan
+  A passionate Kotlin developer from Kyrgyzstan
 </p>
 
 <p align="center">
-  <a href="https://github.com/yuffex/GoogleChatAiJetpackCompose">AI CHAT</a> | <a href="[https://github.com/yuffex/ToDoList](https://github.com/yuffex/TheCatAPiWallpapers)">WALLPAPER</a> | <a href="https://github.com/yuffex/Dish-Explorer">Dish Explorer</a>
+  <a href="https://github.com/yuffex/GoogleChatAiJetpackCompose">AI CHAT</a> | <a href="https://github.com/yuffex/Dish-Explorer">Dish Explorer</a> | <a href="https://github.com/yuffex/TheCatAPiWallpapers
+">WALLPAPERS</a> 
 </p>
-
 <p align="center">
   📫 How to reach me: yuffery.ru@gmail.com
 </p>
